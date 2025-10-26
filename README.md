@@ -23,19 +23,19 @@ Designed and developed by **Amir Saman Pirayeshfar**.
 - A valid **Gemini API key** (for AI Studio integration)
 
 ### Installation Steps
-1. **Clone the repository**:
+1. Clone the repository**:
    ```bash
    git clone https://github.com/pirayeshfar/coffee-tea-recipe-hub.git
 
-2. **Install dependencies:
+2. Install dependencies:
    npm install
    
-3. **Set up environment variables:
+3. Set up environment variables:
    Create a .env.local file in the root directory.
    Add your Gemini API key:
    GEMINI_API_KEY=your-api-key-here
 
-4. **Run the app:
+4. Run the app:
    npm run dev
 
 Open http://localhost:3000 in your browser to view the app.
