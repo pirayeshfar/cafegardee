@@ -1,20 +1,28 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# Coffee & Tea Recipe Hub
 
-This contains everything you need to run your app locally.
+A dynamic web application designed to showcase a variety of **coffee**, **tea**, and **herbal infusion recipes**. Users can explore detailed recipes by selecting their preferred beverage, making it a go-to platform for enthusiasts of specialty drinks. Built with **AI Studio** and powered by **Node.js**, this project reflects a passion for technology and innovative user experiences.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1xjXJblK8wGQKrohFyJ3VU7TRD0zEVhZY
+Designed and developed by **Amir Saman Pirayeshfar**.
+
+🔗 **Live Demo**: [View the app in AI Studio](https://ai.studio/apps/drive/1xjXJblK8wGQKrohFyJ3VU7TRD0zEVhZY)
+
+## Features
+- Interactive recipe selection for coffee, tea, and herbal infusions.
+- Detailed instructions and insights for each beverage.
+- Responsive design for seamless use on desktop and mobile.
+- Built with modern web technologies for optimal performance.
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+### Prerequisites
+- **Node.js** (v16 or higher recommended)
+- A valid **Gemini API key** (for AI Studio integration)
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Installation Steps
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/pirayeshfar/coffee-tea-recipe-hub.git
