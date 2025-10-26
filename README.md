@@ -26,3 +26,35 @@ Designed and developed by **Amir Saman Pirayeshfar**.
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/pirayeshfar/coffee-tea-recipe-hub.git
+
+2. Install dependencies:
+   npm install
+   
+3. Set up environment variables:
+   Create a .env.local file in the root directory.
+   Add your Gemini API key:
+   GEMINI_API_KEY=your-api-key-here
+
+4. Run the app:
+   npm run dev
+
+Open http://localhost:3000 in your browser to view the app.
+
+
+
+Tech Stack
+
+Frontend: AI Studio, JavaScript
+Backend: Node.js
+API: Gemini API for enhanced functionality
+Deployment: AI Studio hosting
+
+Contributing
+Contributions are welcome! Feel free to open an issue or submit a pull request for improvements, bug fixes, or new recipe suggestions.
+License
+This project is licensed under the MIT License.
+Contact
+Developed by Amir Saman Pirayeshfar. Connect with me:
+
+[Telegram](https://t.me/pirayeshfar)
+[Instagram](https://www.instagram.com/pirayeshfar/)
