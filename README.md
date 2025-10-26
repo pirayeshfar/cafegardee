@@ -49,12 +49,14 @@ Open http://localhost:3000 in your browser to view the app.
 * API: Gemini API for enhanced functionality
 * Deployment: AI Studio hosting
 
-Contributing
+### Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request for improvements, bug fixes, or new recipe suggestions.
-License
+
+### License
 This project is licensed under the MIT License.
-Contact
+
+### Contact
 Developed by Amir Saman Pirayeshfar. Connect with me:
 
-[Telegram](https://t.me/pirayeshfar)
-[Instagram](https://www.instagram.com/pirayeshfar/)
+* [Telegram](https://t.me/pirayeshfar)
+* [Instagram](https://www.instagram.com/pirayeshfar/)
