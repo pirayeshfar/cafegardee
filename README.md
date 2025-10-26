@@ -23,7 +23,7 @@ Designed and developed by **Amir Saman Pirayeshfar**.
 - A valid **Gemini API key** (for AI Studio integration)
 
 ### Installation Steps
-1. Clone the repository**:
+1. Clone the repository:
    ```bash
    git clone https://github.com/pirayeshfar/coffee-tea-recipe-hub.git
 
